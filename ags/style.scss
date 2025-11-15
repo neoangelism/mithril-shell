@@ -43,7 +43,7 @@
 
 .bar {
   background-color: $background0;
-  font-weight: bold;
+  font-weight: normal;
 
   .bar-widget {
     @include rounded-full;
